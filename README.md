@@ -182,6 +182,34 @@ CLOCK ANALYSIS
 
 <img width="553" alt="image" src="https://user-images.githubusercontent.com/110079800/196002955-e7498fbc-3129-421c-b59d-5760443a0b69.png">
 
+## SOURCE OF VARIATION - OXIDE THICKNESS
+
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/110079800/196003994-8fd675d0-ca2e-4ee5-b1e0-fbcd10be194d.png">
+
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/110079800/196004045-db35c0e5-9640-40e9-ace7-8467aedcd522.png">
+
+### PROPAGATION DELAY OF INVERTER CELL
+
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/110079800/196004107-72497b3e-a03b-4759-82ca-e5458a76d3db.png">
+
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/110079800/196004169-b75e955b-691a-4879-b5e3-aa2566ad9bf7.png">
+
+## RELATIONSHIP BETWEEN RESISTANCE,DRAIN CURRENT AND DELAY
+
+<img width="540" alt="image" src="https://user-images.githubusercontent.com/110079800/196004464-aba6dfbb-9918-485f-a9ee-116d94bde686.png">
+
+### 'R' OF INVERTER CELL
+
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/110079800/196004590-48ceebf4-f828-4508-a5d8-5fa64a87c5fd.png">
+
+<img width="626" alt="image" src="https://user-images.githubusercontent.com/110079800/196004720-c514b3d1-e4fd-4f87-acd2-4d2619cd868d.png">
+
+<img width="520" alt="image" src="https://user-images.githubusercontent.com/110079800/196004793-d3cb626e-e149-4c28-8e81-59205d4386f1.png">
+
+## OCV BASED SETUP TIMING ANALYSIS
+
+
+
 
 
 
