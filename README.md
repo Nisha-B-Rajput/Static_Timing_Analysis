@@ -114,6 +114,82 @@ CLOCK ANALYSIS
 
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/110079800/195989975-777f3982-e706-477e-9e7a-d7e5c685f702.png">
 
+### CLOCK TO Q DELAY
+
+<img width="637" alt="image" src="https://user-images.githubusercontent.com/110079800/195994484-2b2b0081-c966-44bf-8b56-97075c296ced.png">
+
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/110079800/195994611-6edd7c20-1e16-4833-94f4-9944cbde8e6b.png">
+
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/110079800/195994641-b66d9035-683e-4d31-93d3-cd171c00e286.png">
+
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/110079800/195994869-1a6a8ef9-e680-4866-956e-b3a9629556d1.png">
+
+<img width="589" alt="image" src="https://user-images.githubusercontent.com/110079800/195995471-1a3b2f53-8f39-4d1a-80a0-0cc3fde63089.png">
+
+### STEPS TO CREATE EYE DIAGRAM FOR JITTER ANALYSIS
+
+<img width="562" alt="image" src="https://user-images.githubusercontent.com/110079800/195995659-26254ac6-f573-429a-8252-fffd739033d5.png">
+
+<img width="566" alt="image" src="https://user-images.githubusercontent.com/110079800/195995752-58d83e5a-50fe-4070-834b-c082780c56e8.png">
+
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/110079800/195996173-6fd8d10e-c4e3-4dc6-bcf5-536a34ccd102.png">
+
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/110079800/195996288-580d4541-06ef-4cbd-aec5-e8b641155a3c.png">
+
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/110079800/195996307-34a42462-ad7b-4d7d-ba8d-e77a9f78bce3.png">
+
+<img width="535" alt="image" src="https://user-images.githubusercontent.com/110079800/195996415-afc88f7b-299d-47c9-9f0f-415a40c01d7b.png">
+
+<img width="611" alt="image" src="https://user-images.githubusercontent.com/110079800/195996444-7ac3a049-47d5-4b1c-bfa0-7cbbc6ce7ed0.png">
+
+### JITTER EXTRACTION AND ACCOUNTING IN STATIC TIMING ANALYSIS
+
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/110079800/195996627-ca685f98-1fb7-4b53-958d-397ba9c39ffe.png">
+
+<img width="616" alt="image" src="https://user-images.githubusercontent.com/110079800/195997048-d03b717a-9a7e-496b-ba64-665d83f0722f.png">
+
+### SETUP TIME - GRAPHICAL TO TEXTUAL CONVERSION
+
+<img width="325" alt="image" src="https://user-images.githubusercontent.com/110079800/195999048-04031bd6-41d9-4cf6-a6b6-644db98c9a1c.png">
+
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/110079800/195999063-70753eb0-e3b5-43ab-bca4-6b34c5fcb09a.png">
+
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/110079800/195999230-93127e74-6227-43d9-b604-6a8e00b12db2.png">
+
+### HOLD ANALYSIS WITH REAL CLOCKS
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/110079800/195999777-e2a7a927-8732-40cc-8e88-b3b9935eafb7.png">
+
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/110079800/196001499-b48b1760-61ec-40da-9dcf-601d92c37107.png">
+
+### HOLD TIME- GRAPHICAL TO TEXTUAL CONVERSION
+
+<img width="352" alt="image" src="https://user-images.githubusercontent.com/110079800/196001590-78956c05-69be-44ba-96e7-d10758ade9b2.png">
+
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/110079800/196001607-4fc09948-5fcd-4b2b-a2cb-aba18988a334.png">
+
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/110079800/196001833-bc20367d-eeea-4de8-9b1a-b9bc5b6bb0c6.png">
+
+## SOURCES OF VARIATION - ETCHING PROCESS VARIATION
+
+<img width="565" alt="image" src="https://user-images.githubusercontent.com/110079800/196002602-b39dfa49-970c-4522-9d30-d76c2fc7d865.png">
+
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/110079800/196002651-91c526c9-1eb4-437c-b862-3f55c7d7a4df.png">
+
+<img width="515" alt="image" src="https://user-images.githubusercontent.com/110079800/196002916-2d9ead20-600d-40d9-8f9f-562b8fd70ba6.png">
+
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/110079800/196002935-c5be1757-186e-4a11-a43a-21bec6987b4a.png">
+
+<img width="553" alt="image" src="https://user-images.githubusercontent.com/110079800/196002955-e7498fbc-3129-421c-b59d-5760443a0b69.png">
+
+
+
+
+
+
+
+
+
 
 
 
