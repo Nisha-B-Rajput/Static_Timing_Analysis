@@ -1,10 +1,10 @@
 # Static_Timing_Analysis
 
-###VALID TIMING PATHS
+### VALID TIMING PATHS
 
 <img width="599" alt="image" src="https://user-images.githubusercontent.com/110079800/195977761-f429bc8b-ba54-4cd2-ba55-eacc16bf8263.png">
 
-####ARRIVAL TIME: Time required for a signal to begin at the start point and reach at the end point is known as arrival time
+#### ARRIVAL TIME: Time required for a signal to begin at the start point and reach at the end point is known as arrival time
 
 <img width="583" alt="image" src="https://user-images.githubusercontent.com/110079800/195977860-8d5f958c-847c-4d0e-8535-6cf25b4803d9.png">
 
@@ -63,4 +63,57 @@ CLOCK ANALYSIS
 <img width="509" alt="image" src="https://user-images.githubusercontent.com/110079800/195981722-5a40aa67-8d68-4bba-9eac-776badcdcd96.png">
 
 <img width="218" alt="image" src="https://user-images.githubusercontent.com/110079800/195981796-6c38cf22-8923-4d2d-9abc-2b4aa40d50fe.png">
+
+### INTRODUCTION TO SLACK AND GBA PBA ANALYSIS
+
+<img width="524" alt="image" src="https://user-images.githubusercontent.com/110079800/195986498-5f3c4530-529a-4477-8414-92dae4d386ac.png">
+
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/110079800/195986520-9ba8d6b8-2ab2-4d1b-9b11-d736f896be67.png">
+
+### CONVERT PINS TO  NODES AND COMPUTE RAT,AAT AND SLACK
+
+<img width="578" alt="image" src="https://user-images.githubusercontent.com/110079800/195987519-c6be5bd8-e06e-4df2-a7f8-4232df05f002.png">
+
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/110079800/195987879-35952d66-6726-4836-a74e-17c9aee795e4.png">
+
+<img width="602" alt="image" src="https://user-images.githubusercontent.com/110079800/195987985-1c16924d-ab49-49d3-b61f-409ff4420d23.png">
+
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/110079800/195988153-2da677a1-2b94-41c3-823f-4feb5bb765ea.png">
+
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/110079800/195988185-a86ba19c-b1e8-4fb5-b92e-485418e4d325.png">
+
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/110079800/195988205-a82dd85c-38f6-44de-902d-1cef7cfa5f80.png">
+
+<img width="539" alt="image" src="https://user-images.githubusercontent.com/110079800/195988309-be4d7267-e6ee-4021-99e1-9f9ad777d16f.png">
+
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/110079800/195988367-9abe252b-2b2c-436f-91f6-b92dc37fc262.png">
+
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/110079800/195989187-e06726f0-28ea-4328-a610-2550bc21859b.png">
+
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/110079800/195989209-479c043a-f85d-4a3c-b88f-2fa5fb3708da.png">
+
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/110079800/195989250-f5eafcfc-fcbb-4c25-9614-5c70e24385bd.png">
+
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/110079800/195989281-bdf64d5f-b934-4a44-b0f7-2af34e6241ae.png">
+
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/110079800/195989302-4250b4fe-bb1c-43d4-8ab5-4c28ef932b97.png">
+
+<img width="641" alt="image" src="https://user-images.githubusercontent.com/110079800/195989325-ce821830-2f79-44e8-a88e-876f55ff54d6.png">
+
+### LIBRARY SETUP TIME CALCULATON
+
+#### POSITIVE EDGE TRIGGERED FLIP FLOP USING MASTER-SLAVE CONFIGURATION
+
+<img width="643" alt="image" src="https://user-images.githubusercontent.com/110079800/195989758-8c42364c-29f5-4d01-9b7a-f73013cc900d.png">
+
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/110079800/195989800-a3c5baa4-0275-4fc5-9478-08441bf2d0e8.png">
+
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/110079800/195989855-6da6d80b-6fd5-46e5-ba15-397517870507.png">
+
+<img width="635" alt="image" src="https://user-images.githubusercontent.com/110079800/195989882-ed661c9d-814b-49fe-b8ba-41a46dc470fe.png">
+
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/110079800/195989975-777f3982-e706-477e-9e7a-d7e5c685f702.png">
+
+
+
 
